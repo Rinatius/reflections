@@ -21,3 +21,7 @@ Branches can help to keep track of experimental and parallel changes.
 How do the diagrams help you visualize the branch structure?
 
 By drawing a diagram I visualize the branch structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The first branch updated with changes from the second. It helps us to track changes better.
