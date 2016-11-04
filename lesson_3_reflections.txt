@@ -7,3 +7,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Automatic sunchronisation can lead to unexpected errors and merging conflicts.
 Besides, sometimes you actually want to leave some things on the local machine.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Clone is a copy of a repository. Fork is a clone on GitHub. Branch is a version of code inside repository.
